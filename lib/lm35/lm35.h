@@ -14,7 +14,7 @@ class lm35
 
   private:
 
-    int _analogPin;//pin na koji je spojen LM35
+    int _analogPin;//pin used
     int _val;
     int _T;
 };
